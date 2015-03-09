@@ -10,3 +10,4 @@ To simplify things, the links to all notebooks are listed below:
 - [Logistic Regression](http://nbviewer.ipython.org/github/HaFl/ufldl-tutorial-python/blob/master/Logistic_Regression.ipynb)
 - [Gradient Checking](http://nbviewer.ipython.org/github/HaFl/ufldl-tutorial-python/blob/master/Gradient_Checking.ipynb)
 - [Leanring Curve and Other Visualizations](http://nbviewer.ipython.org/github/HaFl/ufldl-tutorial-python/blob/master/Learning_Curve_and_Other_Visualizations.ipynb)
+- [Softmax Regression](http://nbviewer.ipython.org/github/HaFl/ufldl-tutorial-python/blob/master/Softmax_Regression.ipynb)
